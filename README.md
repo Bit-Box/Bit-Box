@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bit-Box
 - 👀 I’m interested in ... automation
 - 🌱 I’m currently learning ... Powershell and Python
-- 💞️ I’m looking to collaborate on ... automation tasks
+- 💞️ I’m looking to collaborate on ... VMware, Windows, and network automation tasks
 - 📫 How to reach me ...
 
 <!---
